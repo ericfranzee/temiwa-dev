@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuzmart=self.webpackChunkuzmart||[]).push([[952],{50952:(t,e,u)=>{u.r(e),u.d(e,{default:()=>c});u(9950);var a=u(98178),s=u(28429),r=u(33700),n=u(44414);const c=()=>{const{id:t}=(0,s.g)();return(0,n.jsx)(r.A,{handleSubmitDetails:e=>a.A.update(t,e)})}}}]);

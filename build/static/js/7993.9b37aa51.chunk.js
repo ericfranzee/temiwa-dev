@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuzmart=self.webpackChunkuzmart||[]).push([[7993],{67993:(e,t,r)=>{r.r(t),r.d(t,{default:()=>l});r(9950);var u=r(59233),a=r(23263),n=r(28156),s=r(70030),c=r(66209),d=r(44414);const l=function(){const{t:e}=(0,s.B)(),[t]=u.A.useForm();return(0,d.jsx)(a.A,{title:e("add.deliveryman"),children:(0,d.jsx)(n.A,{handleSubmit:e=>c.A.create(e),form:t})})}}}]);
